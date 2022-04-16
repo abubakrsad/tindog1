@@ -130,7 +130,7 @@ p{
     .title-image{
         position: static;
         transform: rotate(0);
-        width: 90%;
+        width: 50%;
     }
     #title{
         text-align: center;
